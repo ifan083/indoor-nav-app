@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/xampp_intro/application/models
+END
+categories_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/xampp_intro/application/models/categories_model.php
+END
+shops_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/xampp_intro/application/models/shops_model.php
+END
+vertexes_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/xampp_intro/application/models/vertexes_model.php
+END
+news_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/xampp_intro/application/models/news_model.php
+END
+objects_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/xampp_intro/application/models/objects_model.php
+END
+edges_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/xampp_intro/application/models/edges_model.php
+END
+floors_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/xampp_intro/application/models/floors_model.php
+END
